@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<head >
+  <title>Home</title>
+  <nav class="w3-container w3-pink w3-hover-deep-purple">
+    <a href="/">Home</a>
+    <a href="BrownBear.html">Brown Bear</a>
+    <a href="About.html">About Me</a>
+  </nav>
+</head>
+<body>
+  
+
+  <img src="http://www.dw.com/image/17668890_401.jpg" alt="atomium" class="logo" width="200" vspace="3" hspace="3" align="right">
+  <a href="https://www.google.nl/" target="_blank"> Google </a>
+
+  <table class="w3-container w3-orange w3-hover-red" width="100%" cellspacing="0" cellpadding="0">
+  	<tbody>
+		<tr>
+			<td class="nieuwsoverzicht">
+				<h1>Ode aan de Natuurkunde</h1>
+				<ul>
+					<li>
+					<a href="https://www.youtube.com/user/1veritasium" class="nieuwsoverzicht">Veritasium</a>
+					</li>
+					<li>
+					<a href="https://www.youtube.com/playlist?list=PLLzGzdSNup63lMYeOpU9Hax6MBsTjdDas" class="nieuwsoverzicht">Richard Feynman's colleges</a>
+					</li>
+					<li>
+					<a href="https://www.nuonsolarteam.nl/"  class="nieuwsoverzicht">Door Australie op zonne-energie</a>
+					</li>
+					<li>
+					<a href="http://endolab.tudelft.nl/" class="nieuwsoverzicht">Onderzoek naar de Big Bang</a>
+					</li>					
+					<li>
+					<a href="http://physique.umontreal.ca/~roorda/index.php?n=Main.HomePage" class="nieuwsoverzicht">Onderzoek van professor Roorda</a>
+					</li>
+					<li>
+					<a href="https://www.vvtp.tudelft.nl/" class="nieuwsoverzicht">Studievereniging Natuurkunde</a>
+					</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+   </table>
+ </body>
+ <footer class="w3-container">
+ 	<p>
+ 	<br>
+ 	Website voor het leren van programmatuur 
+ 	</p>
+	<p class="w3-sand">
+	<br>
+	Door Dhr E. Ferment
+	</p>
+ </footer>
+ </html>
+
+   
